@@ -3,7 +3,7 @@ import string
 
 char_p=string.ascii_letters+string.digits+string.punctuation
 
-length=int(input("Enter a length :"))
+length=12
 
 password=""
 
